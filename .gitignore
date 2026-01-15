@@ -34,3 +34,6 @@ __pycache__
 /docs/src/quickstart
 /docs/src/generated
 /docs/resources
+
+/cmake-wrapper.bat
+/cmake-debug-build/
